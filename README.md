@@ -1,1 +1,1 @@
-registration feature
+bug fixed

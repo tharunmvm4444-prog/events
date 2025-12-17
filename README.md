@@ -1,1 +1,1 @@
-event project
+registration feature
